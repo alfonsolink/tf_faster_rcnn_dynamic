@@ -1,0 +1,2 @@
+model_checkpoint_path: "z7_end_to_end_girschick.ckpt"
+all_model_checkpoint_paths: "z7_end_to_end_girschick.ckpt"
